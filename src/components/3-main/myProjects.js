@@ -160,7 +160,7 @@ export const myProjects = [
       imgPath: "img/2r.png",
       prg: "Create a complete portfolio, multiple pages, responsive site 'react js'",
       github: "https://github.com/singap88a",
-      link: "https://github.com/singap88a/Shopping_Cart_ReactJS-main.git",
+      link: "https://github.com/singap88a/portfolio-react.git",
       more: "https://shopping-cart-3fa01.web.app",
     },
 ];
