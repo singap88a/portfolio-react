@@ -79,4 +79,15 @@ section.hero .animation {
     section.hero .animation{
         display: none;
     }
+
+    
+ }
+
+ @media (max-width: 430px){
+    section.hero h1.title {
+        font-size: 1.8rem;
+        line-height: 3.3rem;
+        margin: 24px 0;
+        color: var(--title);
+    }
  }

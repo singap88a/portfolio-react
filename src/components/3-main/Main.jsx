@@ -22,7 +22,7 @@ export default function Main() {
   // ////////////////////////////
   return (
     <main className="flex">
-      <section className="  left-section flex">
+      <section  className="   left-section flex">
         <button
           onClick={(params) => {
             setcurrentActive("all");
