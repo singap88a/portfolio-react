@@ -143,9 +143,18 @@ export const myProjects = [
     link: "https://github.com/singap88a/dashboard.git",
     more: "https://singap88a.github.io/dashboard/dashboard.html",
   },
-    //////// react start//////////////
+  {
+    projectTitel: "Arap_Ttalian",
+    category: ["js","css"],
+    imgPath: "img/9h-js.png",
+    prg: "Business website for a shipping company for a client of the company owner",
+    github: "https://github.com/singap88a",
 
-    {
+    link: "https://github.com/singap88a/Arap_Ttalian.git",
+    more: "https://singap88a.github.io/Arap_Ttalian/Arap.html",
+  },
+    //////// react start//////////////
+     {
       projectTitel: "Shopping Cart ",
       category: ["react"],
       imgPath: "img/1r.png",
@@ -163,4 +172,14 @@ export const myProjects = [
       link: "https://github.com/singap88a/portfolio-react.git",
       more: "https://portfolio-536da.web.app",
     },
+    {
+      projectTitel: "Ecommerce Greda ",
+      category: ["react"],
+      imgPath: "img/3r.png",
+      prg: "Fully responsive ecommerce work with all screens'",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/greda-ecommerc.git",
+      more: "",
+    },
+ 
 ];
