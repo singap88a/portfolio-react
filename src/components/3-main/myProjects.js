@@ -181,5 +181,14 @@ export const myProjects = [
       link: "https://github.com/singap88a/greda-ecommerc.git",
       more: "",
     },
+    {
+      projectTitel: "JPress ",
+      category: ["react"],
+      imgPath: "img/4r.png",
+      prg: "A platform connecting clients with service providers using AI-driven recommendations. ",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/JPress.git",
+      more: "https://jpress-550f5.web.app",
+    },
  
 ];
