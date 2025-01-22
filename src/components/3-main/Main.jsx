@@ -61,6 +61,15 @@ export default function Main() {
         >
           React js
         </button>
+        {/* /////////////////////////// */}
+        <button
+          onClick={() => {
+            handleClick("next");
+          }}
+          className={currentActive === "next" ? "active" : null}
+        >
+          Next js
+        </button>
       </section>
 
       {/* /////////////////////// */}

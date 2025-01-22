@@ -172,15 +172,7 @@ export const myProjects = [
       link: "https://github.com/singap88a/portfolio-react.git",
       more: "https://portfolio-536da.web.app",
     },
-    {
-      projectTitel: "Ecommerce Greda ",
-      category: ["react"],
-      imgPath: "img/3r.png",
-      prg: "Fully responsive ecommerce work with all screens'",
-      github: "https://github.com/singap88a",
-      link: "https://github.com/singap88a/greda-ecommerc.git",
-      more: "",
-    },
+
     {
       projectTitel: "JPress ",
       category: ["react"],
@@ -189,6 +181,43 @@ export const myProjects = [
       github: "https://github.com/singap88a",
       link: "https://github.com/singap88a/JPress.git",
       more: "https://jpress-550f5.web.app",
+    },
+    {
+      projectTitel: "E-commerce ",
+      category: ["react"],
+      imgPath: "img/5r.png",
+      prg: "Create a laptop sales website with reactjs that is responsive to all screens. ",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/e-commerce.git",
+      more: "https://e-commerce-a2b5e.web.app",
+    },
+    {
+      projectTitel: "Travel World ",
+      category: ["react"],
+      imgPath: "img/6r.png",
+      prg: "Fullstack Tourism Company website is responsive to all screens. ",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/tour-management.git",
+      more: "https://tourism-31e4e.web.app",
+    },
+    {
+      projectTitel: "Top Doctor ",
+      category: ["react"],
+      imgPath: "img/7r.png",
+      prg: "The Top Doctor hospital website, built with React.js and Tailwind CSS, is fully responsive across all devices.",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/Doctors.git",
+      more: "https://top-doctor-8b199.web.app",
+    },
+    // /////////////next js/////////////////////
+    {
+      projectTitel: "Ecommerce Greda ",
+      category: ["next"],
+      imgPath: "img/3r.png",
+      prg: "Fully responsive ecommerce work with all screens'",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/greda-ecommerc.git",
+      more: "",
     },
  
 ];
