@@ -1,6 +1,82 @@
 export const myProjects = [
 
+    //////// react start//////////////
 
+    {
+      projectTitel: "portfolio ",
+      category: ["react"],
+      imgPath: "img/2r.png",
+      prg: "Create a complete portfolio, multiple pages, responsive site 'react js'",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/portfolio-react.git",
+      more: "https://portfolio-536da.web.app",
+    },
+
+    {
+      projectTitel: "JPress ",
+      category: ["react"],
+      imgPath: "img/4r.png",
+      prg: "A platform connecting clients with service providers using AI-driven recommendations. ",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/JPress.git",
+      more: "https://jpress-550f5.web.app",
+    },
+    {
+      projectTitel: "E-commerce ",
+      category: ["react"],
+      imgPath: "img/5r.png",
+      prg: "Create a laptop sales website with reactjs that is responsive to all screens. ",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/e-commerce.git",
+      more: "https://e-commerce-a2b5e.web.app",
+    },
+    {
+      projectTitel: "Travel World ",
+      category: ["react"],
+      imgPath: "img/6r.png",
+      prg: "Fullstack Tourism Company website is responsive to all screens. ",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/tour-management.git",
+      more: "https://tourism-31e4e.web.app",
+    },
+    {
+      projectTitel: "Top Doctor ",
+      category: ["react"],
+      imgPath: "img/7r.png",
+      prg: "The Top Doctor hospital website, built with React.js and Tailwind CSS, is fully responsive across all devices.",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/Doctors.git",
+      more: "https://top-doctor-8b199.web.app",
+    },
+    {
+      projectTitel: "Shopping Cart ",
+      category: ["react"],
+      imgPath: "img/1r.png",
+      prg: "Create a shopping cart with react js. The site is effective and responsive to all screens.",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/Shopping_Cart_ReactJS-main.git",
+      more: "https://shopping-cart-3fa01.web.app",
+    },
+    // /////////////next js/////////////////////
+    {
+      projectTitel: "Coffee House ",
+      category: ["next"],
+      imgPath: "img/8r.png",
+      prg: "Fully responsive café eCommerce site built with Next.js.",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/coffee-house.git",
+      more: "https://coffee-house22.netlify.app",
+    },
+    {
+      projectTitel: "Ecommerce Greda ",
+      category: ["next"],
+      imgPath: "img/3r.png",
+      prg: "Fully responsive ecommerce work with all screens'",
+      github: "https://github.com/singap88a",
+      link: "https://github.com/singap88a/greda-ecommerc.git",
+      more: "",
+    },
+ 
   ////////html & css start//////////////
   {
     projectTitel: "FitLife",
@@ -153,71 +229,5 @@ export const myProjects = [
     link: "https://github.com/singap88a/Arap_Ttalian.git",
     more: "https://singap88a.github.io/Arap_Ttalian/Arap.html",
   },
-    //////// react start//////////////
-     {
-      projectTitel: "Shopping Cart ",
-      category: ["react"],
-      imgPath: "img/1r.png",
-      prg: "Create a shopping cart with react js. The site is effective and responsive to all screens.",
-      github: "https://github.com/singap88a",
-      link: "https://github.com/singap88a/Shopping_Cart_ReactJS-main.git",
-      more: "https://shopping-cart-3fa01.web.app",
-    },
-    {
-      projectTitel: "portfolio ",
-      category: ["react"],
-      imgPath: "img/2r.png",
-      prg: "Create a complete portfolio, multiple pages, responsive site 'react js'",
-      github: "https://github.com/singap88a",
-      link: "https://github.com/singap88a/portfolio-react.git",
-      more: "https://portfolio-536da.web.app",
-    },
 
-    {
-      projectTitel: "JPress ",
-      category: ["react"],
-      imgPath: "img/4r.png",
-      prg: "A platform connecting clients with service providers using AI-driven recommendations. ",
-      github: "https://github.com/singap88a",
-      link: "https://github.com/singap88a/JPress.git",
-      more: "https://jpress-550f5.web.app",
-    },
-    {
-      projectTitel: "E-commerce ",
-      category: ["react"],
-      imgPath: "img/5r.png",
-      prg: "Create a laptop sales website with reactjs that is responsive to all screens. ",
-      github: "https://github.com/singap88a",
-      link: "https://github.com/singap88a/e-commerce.git",
-      more: "https://e-commerce-a2b5e.web.app",
-    },
-    {
-      projectTitel: "Travel World ",
-      category: ["react"],
-      imgPath: "img/6r.png",
-      prg: "Fullstack Tourism Company website is responsive to all screens. ",
-      github: "https://github.com/singap88a",
-      link: "https://github.com/singap88a/tour-management.git",
-      more: "https://tourism-31e4e.web.app",
-    },
-    {
-      projectTitel: "Top Doctor ",
-      category: ["react"],
-      imgPath: "img/7r.png",
-      prg: "The Top Doctor hospital website, built with React.js and Tailwind CSS, is fully responsive across all devices.",
-      github: "https://github.com/singap88a",
-      link: "https://github.com/singap88a/Doctors.git",
-      more: "https://top-doctor-8b199.web.app",
-    },
-    // /////////////next js/////////////////////
-    {
-      projectTitel: "Ecommerce Greda ",
-      category: ["next"],
-      imgPath: "img/3r.png",
-      prg: "Fully responsive ecommerce work with all screens'",
-      github: "https://github.com/singap88a",
-      link: "https://github.com/singap88a/greda-ecommerc.git",
-      more: "",
-    },
- 
 ];
